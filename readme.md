@@ -47,10 +47,5 @@ To evaluate the model and make predictions, refer to the provided Jupyter Notebo
      - Evaluate model accuracy against MOD11 and MOD21 products.
      - Predict LST using SW-NN and compare with in-situ measurements.
 
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Citation
 
