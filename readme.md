@@ -48,4 +48,4 @@ To evaluate the model and make predictions, refer to the provided Jupyter Notebo
      - Predict LST using SW-NN and compare with in-situ measurements.
 
 ## Citation
-
+Cheng Y, Wu H, Li Z L, et al. A robust framework for accurate land surface temperature retrieval: Integrating split-window into knowledge-guided machine learning approach[J]. Remote Sensing of Environment, 2025, 318: 114609.
